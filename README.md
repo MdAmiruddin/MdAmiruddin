@@ -10,21 +10,7 @@
   <br>
 </h1>
 
-<picture> <img align="left" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width = 460px></picture>
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width = 460px></picture>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)
 
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
