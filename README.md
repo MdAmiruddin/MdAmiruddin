@@ -1,4 +1,4 @@
-                                              [![Header](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)]
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)]
 
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m interested in Coding
