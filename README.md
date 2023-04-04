@@ -19,7 +19,8 @@
 - 💞️ I’m looking to collaborate with cybersecurity python projects
 - 📫 How to reach me ..
  •By my youtube channel https://bit.ly/3yeJeS9
-<script src="https://tryhackme.com/badge/1353122"></script>
+ 
+<img src="https://tryhackme-badges.s3.amazonaws.com/lordofficial.png" alt="TryHackMe">
 
 <div align="center">
   <a href="https://github.com/MdAmiruddin/MdAmiruddin">
