@@ -1,4 +1,4 @@
-[![Header](https://github.com/MdAmiruddin/MdAmiruddin/raw/master/profile.gif)]
+[![Header](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)]
 
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m interested in Coding
@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif" alt="Manak" width="200px">
+  <img src="" alt="Manak" width="200px">
   <br>
     <br>
     Welcome to My Github Profile
