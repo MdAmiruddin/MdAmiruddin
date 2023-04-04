@@ -10,8 +10,8 @@
   <br>
 </h1>
 
-<picture> <img align="left" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width = 485px></picture>
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width = 485px></picture>
+<picture> <img align="left" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width = 470px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width = 470px></picture>
 
 <br>
 <br>
