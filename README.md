@@ -26,3 +26,16 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
+## <b> Let's Connect..!</b><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/mdamiruddin" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Md_Amiruddin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
