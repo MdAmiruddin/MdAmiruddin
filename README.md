@@ -1,3 +1,5 @@
+[![Header](https://github.com/MdAmiruddin/MdAmiruddin/raw/master/profile.gif)]
+
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning with Google
@@ -14,8 +16,3 @@
   <br>
 </h1>
 
-<center>
-  <img src="https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif" alt="Email" width="70px">
-  <br><br>
-👋 Hi, If you have any questions regarding my projects, skills, or anything else, feel free drop a msg.
-</center>
