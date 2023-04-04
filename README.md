@@ -12,6 +12,7 @@
 
 ![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)
 
+## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m a CyberSecurity Enthusiast.
 - 🌱 I’m currently learning with Google
