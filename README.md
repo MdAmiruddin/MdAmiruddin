@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-![Header](https://media.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif)
+![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)
 
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m interested in Coding
