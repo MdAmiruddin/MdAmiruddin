@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif" alt="Manak" width="200px">
   <br>
     <br>
-    Welcome to Manak's Github Profile
+    Welcome to Amir's Github Profile
   <br>
 </h1>
 
