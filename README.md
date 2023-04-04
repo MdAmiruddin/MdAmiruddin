@@ -8,7 +8,7 @@
 <div>
   <center>
   <video width="400" autoplay>
-    <source src="https://media.giphy.com/media/5X5l5iqFSe0A13GcTa/giphy.mp4"/>
+    <source src="https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif"/>
   </video>
   </center>
 </div>
