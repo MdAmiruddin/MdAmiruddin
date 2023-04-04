@@ -1,5 +1,6 @@
-                                         ![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)
-
+<h1 align="center">  
+![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)
+</h1>
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning with Google
