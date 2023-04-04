@@ -1,4 +1,4 @@
-[![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)]
+                                         ![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)
 
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m interested in Coding
@@ -8,9 +8,6 @@
  •By my youtube channel https://bit.ly/3yeJeS9
 
 <h1 align="center">
-  <br>
-  <img src="https://github.com/MdAmiruddin" alt="Md Amiruddin" width="200px">
-  <br>
     <br>
     Welcome to My Github Profile
   <br>
