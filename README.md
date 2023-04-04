@@ -1,4 +1,4 @@
-                                              ![Header](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)
+                                              [![Header](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)]
 
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m interested in Coding
