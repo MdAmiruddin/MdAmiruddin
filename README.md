@@ -10,9 +10,27 @@
   <br>
 </h1>
 
-![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)
+<picture> <img align="left" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width = 485px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" width = 485px></picture>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
+
+
+
 - 👋 Hi, I’m @MdAmiruddin
 - 👀 I’m a CyberSecurity Enthusiast.
 - 🌱 I’m currently learning with Google
