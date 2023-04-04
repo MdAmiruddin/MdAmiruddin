@@ -10,12 +10,12 @@
   <img src="https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif" alt="Manak" width="200px">
   <br>
     <br>
-    Welcome to Amir's Github Profile
+    Welcome to My Github Profile
   <br>
 </h1>
 
 <center>
-  <img src="https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif" alt="Email" width="70px"></a>
+  <img src="https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif" alt="Email" width="70px">
   <br><br>
 👋 Hi, If you have any questions regarding my projects, skills, or anything else, feel free drop a msg.
 </center>
