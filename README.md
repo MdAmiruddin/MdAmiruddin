@@ -28,7 +28,7 @@
 </div>
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/handshake.gif" width ="80">
+## <b> Let's Connect</b><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
