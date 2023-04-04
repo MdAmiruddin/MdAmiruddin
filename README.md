@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/MdAmiruddin/MdAmiruddin">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg"
        alt="snake" /></a>
 </div>
 
