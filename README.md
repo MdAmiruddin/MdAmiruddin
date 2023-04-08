@@ -10,11 +10,13 @@
   <br>
 </h1>
 
-![Header](https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif)
+
 
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 
+
+<img width="490" height="270" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif" align=right>
 
 
 - 👋 Hi, I’m @MdAmiruddin
@@ -22,10 +24,16 @@
 - 🌱 I’m currently learning with Google
 - 💞️ I’m looking to collaborate with cybersecurity python projects
 - 📫 How to reach me ..
- •By my youtube channel https://bit.ly/3yeJeS9
+- By my youtube channel https://bit.ly/3yeJeS9
+- 📝 I write technical blogs and articles on cyber security [Blog](https://mdamiruddin.medium.com)
  
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 # 💻 Tech Stack:
@@ -41,10 +49,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MdAmiruddin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=MdAmiruddin&icon=2&color=1)](https://visitcount.itsvg.in)
-
-  
+ 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
