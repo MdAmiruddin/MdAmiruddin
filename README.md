@@ -84,6 +84,6 @@
 <br>
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=MdAmiruddin&icon=2&color=1)]
+![](https://visitcount.itsvg.in/api?id=MdAmiruddin&icon=2&color=1)
 
 
